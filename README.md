@@ -2,9 +2,9 @@ PrallelTextProcessing
 =====================
 
 Parallel Text Processing In C Using WindowsThreads
+--------------------------------------------------
 
-
-Description:
+### Description:
 
 A program that takes Archivos/A.txt and does a bunch of things:
 
